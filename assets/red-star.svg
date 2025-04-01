@@ -1,0 +1,14 @@
+<svg width="38" height="38" viewBox="-4 -4 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 19.0073L15.5286 21.8416L19.0074 38L22.4714 21.8416L38 18.9927L22.5454 15.2672L19.0074 0L15.4694 15.2672L0 19.0073Z" fill="#DC0005">
+    <animateTransform
+        attributeName="transform"
+        type="scale"
+        values="1; 1.2; 1"
+        dur="3s"
+        repeatCount="indefinite"
+        additive="sum"
+        calcMode="spline"
+        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"
+    />
+</path>
+</svg>
